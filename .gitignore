@@ -1,0 +1,17 @@
+data/
+*__pycache__/
+*.npz
+*.json
+outputs/
+wandb/
+*.log
+*.bash
+*.png
+*.pdf
+*.ipynb_checkpoints
+*.code-workspace
+.*
+!q*/**/*.pdf 
+results/
+scripts/
+plot/
